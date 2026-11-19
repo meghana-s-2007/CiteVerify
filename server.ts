@@ -350,7 +350,7 @@ app.use((err: unknown, _req: express.Request, res: express.Response, next: expre
 });
 
 async function startServer() {
-  const PORT = 3000;
+  const PORT = Number(process.env.PORT) || 3000;
   const isProd = process.env.NODE_ENV === 'production';
 
   if (!isProd) {
