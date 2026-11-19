@@ -1,4 +1,4 @@
-# CiteVerify 2.0
+# CiteVerify 
 
 > Scientific claim and citation verification: check whether the papers an academic document cites actually support its claims.
 
