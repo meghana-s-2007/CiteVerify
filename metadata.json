@@ -1,0 +1,6 @@
+{
+  "name": "CiteVerify",
+  "description": "Scientific Claim and Citation Verification System — Don't just cite it. Verify it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
