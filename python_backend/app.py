@@ -1,11 +1,3 @@
-"""
-CiteVerify — Reference Python Flask REST API Implementation
------------------------------------------------------------
-Note: The live preview environment runs the Node.js/Express TypeScript server (server.ts)
-on port 3000. This standalone Flask module mirrors the exact REST endpoints using
-PyMuPDF (fitz), python-docx, Google GenAI, Semantic Scholar, Crossref, and SQLite.
-"""
-
 import json
 import os
 import sqlite3
